@@ -26,3 +26,4 @@ dependencies:
     - kubernetes
     - graphviz
     # dev versions:
+    - git+https://github.com/dask/dask-kubernetes.git@async
